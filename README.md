@@ -1,6 +1,6 @@
 # DSA-Lab-6-KIIT-
 Linked List Insertion, Deletion, Reverse
-|Special Thanks to Srijan Verma for the List reversal Code!!! (srijanverma9)|
+|Special Thanks to Srijan Verma for the List reversal Code!!! (srijanv9)|
 
 Q1.Write a menu driven program to create a single linked list and create menu for for all variations of deletion for the single linked list.
 
